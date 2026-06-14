@@ -1,0 +1,211 @@
+﻿facility_id,day,open_time,close_time,is_closed,last_admission,notes
+SEOUL_001,Monday,9:30,17:30,False,17:00,Permanent exhibitions; special exhibitions may differ
+SEOUL_001,Tuesday,9:30,17:30,False,17:00,Permanent exhibitions; special exhibitions may differ
+SEOUL_001,Wednesday,9:30,21:00,False,20:30,Night opening
+SEOUL_001,Thursday,9:30,17:30,False,17:00,Permanent exhibitions; special exhibitions may differ
+SEOUL_001,Friday,9:30,17:30,False,17:00,Permanent exhibitions; special exhibitions may differ
+SEOUL_001,Saturday,9:30,21:00,False,20:30,Night opening
+SEOUL_001,Sunday,9:30,17:30,False,17:00,Permanent exhibitions; special exhibitions may differ
+SEOUL_002,Monday,,,True,,Closed
+SEOUL_002,Tuesday,9:00,18:00,False,17:30,
+SEOUL_002,Wednesday,9:00,18:00,False,17:30,
+SEOUL_002,Thursday,9:00,18:00,False,17:30,
+SEOUL_002,Friday,9:00,22:00,False,21:30,Extended Friday opening
+SEOUL_002,Saturday,9:00,18:00,False,17:30,
+SEOUL_002,Sunday,9:00,18:00,False,17:30,
+SEOUL_003,Monday,10:00,18:00,False,17:00,Admission/time can vary by exhibition
+SEOUL_003,Tuesday,10:00,18:00,False,17:00,Admission/time can vary by exhibition
+SEOUL_003,Wednesday,10:00,21:00,False,20:00,Night opening
+SEOUL_003,Thursday,10:00,18:00,False,17:00,Admission/time can vary by exhibition
+SEOUL_003,Friday,10:00,18:00,False,17:00,Admission/time can vary by exhibition
+SEOUL_003,Saturday,10:00,21:00,False,20:00,Night opening
+SEOUL_003,Sunday,10:00,18:00,False,17:00,Admission/time can vary by exhibition
+SEOUL_004,Monday,,,True,,Closed
+SEOUL_004,Tuesday,10:00,18:00,False,17:30,
+SEOUL_004,Wednesday,10:00,18:00,False,17:30,
+SEOUL_004,Thursday,10:00,18:00,False,17:30,
+SEOUL_004,Friday,10:00,18:00,False,17:30,
+SEOUL_004,Saturday,10:00,18:00,False,17:30,
+SEOUL_004,Sunday,10:00,18:00,False,17:30,
+SEOUL_005,Monday,,,True,,Closed
+SEOUL_005,Tuesday,9:00,21:00,False,20:00,
+SEOUL_005,Wednesday,9:00,21:00,False,20:00,
+SEOUL_005,Thursday,9:00,21:00,False,20:00,
+SEOUL_005,Friday,9:00,21:00,False,20:00,
+SEOUL_005,Saturday,9:00,21:00,False,20:00,
+SEOUL_005,Sunday,9:00,21:00,False,20:00,
+SEOUL_006,Monday,,,True,,Closed
+SEOUL_006,Tuesday,9:00,18:30,False,17:30,Summer Jun-Aug base hours; seasonal changes apply
+SEOUL_006,Wednesday,9:00,18:30,False,17:30,Summer Jun-Aug base hours; seasonal changes apply
+SEOUL_006,Thursday,9:00,18:30,False,17:30,Summer Jun-Aug base hours; seasonal changes apply
+SEOUL_006,Friday,9:00,18:30,False,17:30,Summer Jun-Aug base hours; seasonal changes apply
+SEOUL_006,Saturday,9:00,18:30,False,17:30,Summer Jun-Aug base hours; seasonal changes apply
+SEOUL_006,Sunday,9:00,18:30,False,17:30,Summer Jun-Aug base hours; seasonal changes apply
+SEOUL_007,Monday,9:00,18:30,False,17:30,Summer Jun-Aug base hours; seasonal changes apply
+SEOUL_007,Tuesday,,,True,,Closed
+SEOUL_007,Wednesday,9:00,18:30,False,17:30,Summer Jun-Aug base hours; seasonal changes apply
+SEOUL_007,Thursday,9:00,18:30,False,17:30,Summer Jun-Aug base hours; seasonal changes apply
+SEOUL_007,Friday,9:00,18:30,False,17:30,Summer Jun-Aug base hours; seasonal changes apply
+SEOUL_007,Saturday,9:00,18:30,False,17:30,Summer Jun-Aug base hours; seasonal changes apply
+SEOUL_007,Sunday,9:00,18:30,False,17:30,Summer Jun-Aug base hours; seasonal changes apply
+SEOUL_008,Monday,,,True,,Closed
+SEOUL_008,Tuesday,10:00,18:00,False,17:30,
+SEOUL_008,Wednesday,10:00,18:00,False,17:30,
+SEOUL_008,Thursday,10:00,18:00,False,17:30,
+SEOUL_008,Friday,10:00,21:00,False,20:30,
+SEOUL_008,Saturday,10:00,18:00,False,17:30,
+SEOUL_008,Sunday,10:00,18:00,False,17:30,
+SEOUL_009,Monday,,,True,,Closed
+SEOUL_009,Tuesday,10:00,20:00,False,19:30,
+SEOUL_009,Wednesday,10:00,20:00,False,19:30,
+SEOUL_009,Thursday,10:00,20:00,False,19:30,
+SEOUL_009,Friday,10:00,20:00,False,19:30,
+SEOUL_009,Saturday,10:00,19:00,False,18:30,Summer weekend/public-holiday hours
+SEOUL_009,Sunday,10:00,19:00,False,18:30,Summer weekend/public-holiday hours
+SEOUL_010,Monday,,,True,,Closed
+SEOUL_010,Tuesday,10:00,20:00,False,20:00,
+SEOUL_010,Wednesday,10:00,20:00,False,20:00,
+SEOUL_010,Thursday,10:00,20:00,False,20:00,
+SEOUL_010,Friday,10:00,20:00,False,20:00,
+SEOUL_010,Saturday,10:00,18:00,False,18:00,
+SEOUL_010,Sunday,10:00,18:00,False,18:00,
+NYC_001,Monday,10:00,17:00,False,16:30,Met Fifth Avenue
+NYC_001,Tuesday,10:00,17:00,False,16:30,Met Fifth Avenue
+NYC_001,Wednesday,,,True,,Closed
+NYC_001,Thursday,10:00,17:00,False,16:30,Met Fifth Avenue
+NYC_001,Friday,10:00,21:00,False,20:30,Night opening
+NYC_001,Saturday,10:00,21:00,False,20:30,Night opening
+NYC_001,Sunday,10:00,17:00,False,16:30,Met Fifth Avenue
+NYC_002,Monday,10:30,17:30,False,17:00,
+NYC_002,Tuesday,10:30,17:30,False,17:00,
+NYC_002,Wednesday,10:30,17:30,False,17:00,
+NYC_002,Thursday,10:30,17:30,False,17:00,
+NYC_002,Friday,10:30,20:30,False,20:00,Friday evening opening
+NYC_002,Saturday,10:30,17:30,False,17:00,
+NYC_002,Sunday,10:30,17:30,False,17:00,
+NYC_003,Monday,10:30,17:30,False,17:00,
+NYC_003,Tuesday,10:30,17:30,False,17:00,
+NYC_003,Wednesday,10:30,17:30,False,17:00,
+NYC_003,Thursday,10:30,17:30,False,17:00,
+NYC_003,Friday,10:30,17:30,False,17:00,
+NYC_003,Saturday,10:30,17:30,False,17:00,
+NYC_003,Sunday,10:30,17:30,False,17:00,
+NYC_004,Monday,10:00,17:30,False,17:00,
+NYC_004,Tuesday,10:00,17:30,False,17:00,
+NYC_004,Wednesday,10:00,17:30,False,17:00,
+NYC_004,Thursday,10:00,17:30,False,17:00,
+NYC_004,Friday,10:00,17:30,False,17:00,
+NYC_004,Saturday,10:00,17:30,False,17:00,
+NYC_004,Sunday,10:00,17:30,False,17:00,
+NYC_005,Monday,10:30,18:00,False,17:30,Regular schedule; summer exceptions may apply
+NYC_005,Tuesday,,,True,,Closed
+NYC_005,Wednesday,10:30,18:00,False,17:30,Regular schedule; summer exceptions may apply
+NYC_005,Thursday,10:30,18:00,False,17:30,Regular schedule; summer exceptions may apply
+NYC_005,Friday,10:30,22:00,False,21:30,Free Friday evenings subject to ticket availability
+NYC_005,Saturday,10:30,18:00,False,17:30,Regular schedule; summer exceptions may apply
+NYC_005,Sunday,10:30,18:00,False,17:30,Free Second Sundays subject to ticket availability
+NYC_006,Monday,10:30,17:30,False,17:00,
+NYC_006,Tuesday,,,True,,Closed
+NYC_006,Wednesday,10:30,17:30,False,17:00,Pay-what-you-wish selected afternoon hours
+NYC_006,Thursday,10:30,17:30,False,17:00,
+NYC_006,Friday,10:30,17:30,False,17:00,
+NYC_006,Saturday,10:30,17:30,False,17:00,
+NYC_006,Sunday,10:30,17:30,False,17:00,
+NYC_007,Monday,10:00,17:00,False,16:00,Spring/Summer Apr-Sep base hours
+NYC_007,Tuesday,10:00,17:00,False,16:00,Spring/Summer Apr-Sep base hours
+NYC_007,Wednesday,10:00,17:00,False,16:00,Spring/Summer Apr-Sep base hours
+NYC_007,Thursday,10:00,17:00,False,16:00,Spring/Summer Apr-Sep base hours
+NYC_007,Friday,10:00,17:00,False,16:00,Spring/Summer Apr-Sep base hours
+NYC_007,Saturday,10:00,18:00,False,17:00,Spring/Summer Apr-Sep weekend/holiday hours
+NYC_007,Sunday,10:00,18:00,False,17:00,Spring/Summer Apr-Sep weekend/holiday hours
+NYC_008,Monday,10:00,17:00,False,16:30,
+NYC_008,Tuesday,10:00,17:00,False,16:30,
+NYC_008,Wednesday,10:00,17:00,False,16:30,Wednesday free admission program
+NYC_008,Thursday,10:00,17:00,False,16:30,
+NYC_008,Friday,10:00,17:00,False,16:30,
+NYC_008,Saturday,10:00,18:00,False,17:30,
+NYC_008,Sunday,10:00,18:00,False,17:30,
+NYC_009,Monday,,,True,,Closed
+NYC_009,Tuesday,,,True,,Closed
+NYC_009,Wednesday,11:00,18:00,False,17:45,
+NYC_009,Thursday,11:00,18:00,False,17:45,
+NYC_009,Friday,11:00,18:00,False,17:45,
+NYC_009,Saturday,11:00,18:00,False,17:45,
+NYC_009,Sunday,11:00,18:00,False,17:45,
+NYC_010,Monday,9:00,19:00,False,17:30,Museum; Memorial is free outdoors daily
+NYC_010,Tuesday,,,True,,Closed
+NYC_010,Wednesday,9:00,19:00,False,17:30,Museum; select Tuesdays may open in 2026
+NYC_010,Thursday,9:00,19:00,False,17:30,Museum; Memorial is free outdoors daily
+NYC_010,Friday,9:00,19:00,False,17:30,Museum; Memorial is free outdoors daily
+NYC_010,Saturday,9:00,19:00,False,17:30,Museum; Memorial is free outdoors daily
+NYC_010,Sunday,9:00,19:00,False,17:30,New York First Sundays program may apply
+PARIS_001,Monday,9:00,18:00,False,17:00,
+PARIS_001,Tuesday,,,True,,Closed
+PARIS_001,Wednesday,9:00,21:00,False,20:00,Night opening
+PARIS_001,Thursday,9:00,18:00,False,17:00,
+PARIS_001,Friday,9:00,21:00,False,20:00,Night opening
+PARIS_001,Saturday,9:00,18:00,False,17:00,
+PARIS_001,Sunday,9:00,18:00,False,17:00,
+PARIS_002,Monday,,,True,,Closed
+PARIS_002,Tuesday,9:30,18:00,False,17:00,
+PARIS_002,Wednesday,9:30,18:00,False,17:00,
+PARIS_002,Thursday,9:30,21:45,False,21:00,Night opening
+PARIS_002,Friday,9:30,18:00,False,17:00,
+PARIS_002,Saturday,9:30,18:00,False,17:00,
+PARIS_002,Sunday,9:30,18:00,False,17:00,
+PARIS_003,Monday,,,True,,Main Centre Pompidou building closed for major renovation until 2030; off-site programs vary
+PARIS_003,Tuesday,,,True,,Main Centre Pompidou building closed for major renovation until 2030; off-site programs vary
+PARIS_003,Wednesday,,,True,,Main Centre Pompidou building closed for major renovation until 2030; off-site programs vary
+PARIS_003,Thursday,,,True,,Main Centre Pompidou building closed for major renovation until 2030; off-site programs vary
+PARIS_003,Friday,,,True,,Main Centre Pompidou building closed for major renovation until 2030; off-site programs vary
+PARIS_003,Saturday,,,True,,Main Centre Pompidou building closed for major renovation until 2030; off-site programs vary
+PARIS_003,Sunday,,,True,,Main Centre Pompidou building closed for major renovation until 2030; off-site programs vary
+PARIS_004,Monday,,,True,,Closed
+PARIS_004,Tuesday,10:00,18:30,False,17:45,Garden and museum; exceptional closures may apply
+PARIS_004,Wednesday,10:00,18:30,False,17:45,Garden and museum; exceptional closures may apply
+PARIS_004,Thursday,10:00,18:30,False,17:45,Garden and museum; exceptional closures may apply
+PARIS_004,Friday,10:00,18:30,False,17:45,Garden and museum; exceptional closures may apply
+PARIS_004,Saturday,10:00,18:30,False,17:45,Garden and museum; exceptional closures may apply
+PARIS_004,Sunday,10:00,18:30,False,17:45,Garden and museum; exceptional closures may apply
+PARIS_005,Monday,9:00,18:00,False,17:15,
+PARIS_005,Tuesday,,,True,,Closed
+PARIS_005,Wednesday,9:00,18:00,False,17:15,
+PARIS_005,Thursday,9:00,18:00,False,17:15,
+PARIS_005,Friday,9:00,21:00,False,20:15,Friday evening opening during exhibition periods
+PARIS_005,Saturday,9:00,18:00,False,17:15,
+PARIS_005,Sunday,9:00,18:00,False,17:15,
+PARIS_006,Monday,12:00,22:00,False,21:30,
+PARIS_006,Tuesday,,,True,,Closed
+PARIS_006,Wednesday,12:00,22:00,False,21:30,
+PARIS_006,Thursday,12:00,23:59,False,23:30,Thursday until midnight; stored as 23:59 for app logic
+PARIS_006,Friday,12:00,22:00,False,21:30,
+PARIS_006,Saturday,12:00,22:00,False,21:30,
+PARIS_006,Sunday,12:00,22:00,False,21:30,
+PARIS_007,Monday,,,True,,Closed
+PARIS_007,Tuesday,9:30,18:00,False,17:15,
+PARIS_007,Wednesday,9:30,18:00,False,17:15,
+PARIS_007,Thursday,9:30,18:00,False,17:15,
+PARIS_007,Friday,9:30,18:00,False,17:15,
+PARIS_007,Saturday,9:30,18:00,False,17:15,
+PARIS_007,Sunday,9:30,18:00,False,17:15,
+PARIS_008,Monday,,,True,,Closed
+PARIS_008,Tuesday,10:00,18:00,False,17:30,Permanent collections free; temporary exhibitions may differ
+PARIS_008,Wednesday,10:00,18:00,False,17:30,Permanent collections free; temporary exhibitions may differ
+PARIS_008,Thursday,10:00,18:00,False,17:30,Permanent collections free; temporary exhibitions may differ
+PARIS_008,Friday,10:00,18:00,False,17:30,Permanent collections free; temporary exhibitions may differ
+PARIS_008,Saturday,10:00,18:00,False,17:30,Permanent collections free; temporary exhibitions may differ
+PARIS_008,Sunday,10:00,18:00,False,17:30,Permanent collections free; temporary exhibitions may differ
+PARIS_009,Monday,,,True,,Closed
+PARIS_009,Tuesday,9:15,18:00,False,17:00,Building hours; exhibitions generally open 10:00-18:00
+PARIS_009,Wednesday,9:15,18:00,False,17:00,Building hours; exhibitions generally open 10:00-18:00
+PARIS_009,Thursday,9:15,18:00,False,17:00,Building hours; exhibitions generally open 10:00-18:00
+PARIS_009,Friday,9:15,18:00,False,17:00,Building hours; exhibitions generally open 10:00-18:00
+PARIS_009,Saturday,9:15,18:00,False,17:00,Building hours; exhibitions generally open 10:00-18:00
+PARIS_009,Sunday,9:15,19:00,False,18:00,Building hours; exhibitions generally open 10:00-19:00
+PARIS_010,Monday,10:00,23:00,False,22:15,Apr-Sep base hours; seasonal changes and ceremony closures apply
+PARIS_010,Tuesday,11:00,23:00,False,22:15,Apr-Sep Tuesday opening; seasonal changes and ceremony closures apply
+PARIS_010,Wednesday,10:00,23:00,False,22:15,Apr-Sep base hours; seasonal changes and ceremony closures apply
+PARIS_010,Thursday,10:00,23:00,False,22:15,Apr-Sep base hours; seasonal changes and ceremony closures apply
+PARIS_010,Friday,10:00,23:00,False,22:15,Apr-Sep base hours; seasonal changes and ceremony closures apply
+PARIS_010,Saturday,10:00,23:00,False,22:15,Apr-Sep base hours; seasonal changes and ceremony closures apply
+PARIS_010,Sunday,10:00,23:00,False,22:15,Apr-Sep base hours; seasonal changes and ceremony closures apply

@@ -1,0 +1,4 @@
+﻿currency,mid_rate_krw,source_url,fetched_at,source_method,status,message
+EUR,1760.51,https://www.kita.net/cmmrcInfo/ehgtGnrlzInfo/rltmEhgt.do,2026-06-14 22:26:11 KST,selenium,live,Live Selenium scrape succeeded. KITA posted date: 2026-06-12.
+KRW,1.0,https://www.kita.net/cmmrcInfo/ehgtGnrlzInfo/rltmEhgt.do,2026-06-14 22:26:11 KST,selenium,live,Live Selenium scrape succeeded. KITA posted date: 2026-06-12.
+USD,1520.7,https://www.kita.net/cmmrcInfo/ehgtGnrlzInfo/rltmEhgt.do,2026-06-14 22:26:11 KST,selenium,live,Live Selenium scrape succeeded. KITA posted date: 2026-06-12.
